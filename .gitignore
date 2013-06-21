@@ -1,0 +1,9 @@
+*.apk
+*.dex
+*.class
+bin/
+gen/
+.DS_Store
+*.iml
+.idea/
+res/values/twitter.xml
