@@ -1,0 +1,3 @@
+twitterアプリのひな形
+
+res/valuesフォルダ内のtwitter.xmlをgitignoreでけしているので、適当に追加してやって使う
